@@ -1,0 +1,27 @@
+001
+Tuoi tho
+Kim Dong
+Kim Dong
+13800
+2001
+103
+2/2/2002
+0
+002
+Conan
+Osawa
+Lam Dong
+35000
+2013
+120
+12/1/1111
+1
+003
+De Men phieu luu ky
+To Hoai
+Kim Dong
+40000
+2016
+250
+2/0/0
+0
